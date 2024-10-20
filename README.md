@@ -11,3 +11,7 @@ Foi falado sobre os tipos de imagens na criação de máquina virtual, depois so
 
 Lab4:
 Fala sobre as regiões do Azure, entrando na página do Globo onde conseguimos explorar as regiões existentes e entrando nos detalhes de cada região. Fala sobre a replição de dados na região do Brasil. Na sequencia foi mostrado sobre fazer o Tour por dentro dos prédios do datacenters. Depois foi feito a criação de um grupo de recursos dentro do Azure e incluindo uma vnet dentro desse grupo de recursos.
+
+
+Lab5:
+Mostrou o passo a passo para a criação de uma máquina virtual, passando pelos itens básicos iniciais, as configurações de discos, configurações de Rede(Vnet), mostrou a parte de Gerenciamento e Monitoramento e por fim onde mostra o resumo da máquina a ser criada e qual seria o custo dessa mesma. Na sequência é falado sobre a criação de uma Área de Trabalho Virtual do Azure. Por fim, foi falado sobre as Azure Functions e algumas particularidades.
