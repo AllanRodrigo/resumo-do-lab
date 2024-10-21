@@ -18,3 +18,6 @@ Mostrou o passo a passo para a criação de uma máquina virtual, passando pelos
 
 Lab6:
 Foi falado sobre os serviços de armazenamento do Azure, começando pela conta de armazenamento, foi falado sobre os conteneires blob, filas, compartilhamento de arquivo e tabelas. Na sequência falou sobre as migrações para o Azure, seguido do AzCopy e sobre o Gerenciador de Armazenamento.
+
+Lab 7:
+Neste lab é falado sobre a segurança no Azure, com o Microsoft Entra ID(Antigo AD), o qual gerencia as Identidades e Grupos da conta, gerencia Identidades Externas e gerenciamento de logs. Foi explicado sobre as licenças do Microsoft Entra ID. Foi falado também sobre o Microsoft Entra Connect o qual gerencia o intermedio entre Identidades e Acessos no ambiente on-premise e o ambiente na nuvem. Por fim foi falado sobre o Microsoft Defender, que faz o monitoramento e gerenciamento relacionado a segurança da conta.
