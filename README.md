@@ -15,3 +15,6 @@ Fala sobre as regiões do Azure, entrando na página do Globo onde conseguimos e
 
 Lab5:
 Mostrou o passo a passo para a criação de uma máquina virtual, passando pelos itens básicos iniciais, as configurações de discos, configurações de Rede(Vnet), mostrou a parte de Gerenciamento e Monitoramento e por fim onde mostra o resumo da máquina a ser criada e qual seria o custo dessa mesma. Na sequência é falado sobre a criação de uma Área de Trabalho Virtual do Azure. Por fim, foi falado sobre as Azure Functions e algumas particularidades.
+
+Lab6:
+Foi falado sobre os serviços de armazenamento do Azure, começando pela conta de armazenamento, foi falado sobre os conteneires blob, filas, compartilhamento de arquivo e tabelas. Na sequência falou sobre as migrações para o Azure, seguido do AzCopy e sobre o Gerenciador de Armazenamento.
