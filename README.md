@@ -21,3 +21,6 @@ Foi falado sobre os serviços de armazenamento do Azure, começando pela conta d
 
 Lab 7:
 Neste lab é falado sobre a segurança no Azure, com o Microsoft Entra ID(Antigo AD), o qual gerencia as Identidades e Grupos da conta, gerencia Identidades Externas e gerenciamento de logs. Foi explicado sobre as licenças do Microsoft Entra ID. Foi falado também sobre o Microsoft Entra Connect o qual gerencia o intermedio entre Identidades e Acessos no ambiente on-premise e o ambiente na nuvem. Por fim foi falado sobre o Microsoft Defender, que faz o monitoramento e gerenciamento relacionado a segurança da conta.
+
+Lab 8:
+Neste labotatório foi falado sobre o gerenciamento de Custos na Azure, explicado sobre a calculadora de Custos e sobre o Custo Total de Propriedade(TCO), além de ao final explicar gerenciamento de custos e sobre o uso de tags/marcas e como ela pode nos ajudar a controlar/identificar os recuross
