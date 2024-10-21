@@ -24,3 +24,6 @@ Neste lab é falado sobre a segurança no Azure, com o Microsoft Entra ID(Antigo
 
 Lab 8:
 Neste labotatório foi falado sobre o gerenciamento de Custos na Azure, explicado sobre a calculadora de Custos e sobre o Custo Total de Propriedade(TCO), além de ao final explicar gerenciamento de custos e sobre o uso de tags/marcas e como ela pode nos ajudar a controlar/identificar os recuross
+
+Lab 9:
+Neste laboratório fala sobre as policys e bloqueios de recursos, além do Portal de confiança e o Microsoft Purview.
